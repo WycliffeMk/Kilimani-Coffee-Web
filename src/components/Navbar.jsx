@@ -24,7 +24,7 @@ const Navbar = () => {
             <span>
               <SiCoffeescript size={25} />
             </span>
-            <h1 className=" text-xl font-semibold">CafePulse</h1>
+            <h1 className=" text-xl font-semibold">CafeKIlimani</h1>
           </div>
 
           <nav className="hidden md:flex flex-row items-center text-lg font-medium gap-8">
