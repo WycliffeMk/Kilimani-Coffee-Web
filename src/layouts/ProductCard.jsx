@@ -1,5 +1,5 @@
 import React from "react";
-import Button from "../layouts/Button";
+import { Button } from "react-scroll";
 import { BsStarHalf } from "react-icons/bs";
 import { BsStarFill } from "react-icons/bs";
 
