@@ -12,7 +12,7 @@ const About = () => {
         <div className=" w-full lg:w-2/4">
           <img
             className=" rounded-lg"
-            src="src/assets/img/about.jpg"
+            src="../images/about.jpg"
             alt="img"
           />
         </div>
