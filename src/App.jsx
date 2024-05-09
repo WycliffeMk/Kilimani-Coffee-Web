@@ -3,6 +3,7 @@ import Home from "./components/Home"
 import About from "./components/About"
 import Menu from "./components/Menu"
 import Review from "./components/Review"
+import Product from "./components/Products"
 
 const App = () => {
   return (
@@ -17,6 +18,9 @@ const App = () => {
         </div>
         <div id="about">
           <About/>
+        </div>
+        <div id="products">
+          <Product/>
         </div>
         <div id="review">
           <Review />
