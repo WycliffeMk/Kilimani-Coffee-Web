@@ -9,9 +9,9 @@ const Product = () => {
       </h1>
 
       <div className=" flex flex-col lg:flex-row gap-12 justify-center">
-        <ProductCard img="public/images/Nespresso.jpeg" title="Nespresso" />
-        <ProductCard img="public/images/AeroPress.jpeg" title="AeroPress" />
-        <ProductCard img="public/images/Chamax.jpeg" title="Chemex" />
+        <ProductCard img="../images/Nespresso.jpeg" title="Nespresso" />
+        <ProductCard img="../images/AeroPress.jpeg" title="AeroPress" />
+        <ProductCard img="../images/Chamax.jpeg" title="Chemex" />
       </div>
     </div>
   );
