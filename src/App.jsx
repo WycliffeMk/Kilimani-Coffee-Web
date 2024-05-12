@@ -4,6 +4,7 @@ import About from "./components/About"
 import Menu from "./components/Menu"
 import Review from "./components/Review"
 import Product from "./components/Products"
+import Footer from "./components/Footer"
 
 const App = () => {
   return (
@@ -26,6 +27,8 @@ const App = () => {
           <Review />
         </div>
       </main>
+
+      <Footer />
     </div>
   )
 }
